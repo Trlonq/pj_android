@@ -1,4 +1,3 @@
-# .gitignore
 .env
-# created by virtualenv automatically
-
+__pycache__/
+config.py  # nếu config.py chứa thông tin nhạy cảm
